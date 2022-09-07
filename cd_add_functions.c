@@ -26,4 +26,3 @@ void print_cd_2(vars_t *vars)
 	print_str(vars->array_tokens[1], 1);
 	print_str(": Not a directory", 0);
 }
-

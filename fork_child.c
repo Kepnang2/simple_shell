@@ -179,4 +179,3 @@ char *search_directories(char **path_tokens, char *command)
 	free(cwd);
 	return (NULL);
 }
-

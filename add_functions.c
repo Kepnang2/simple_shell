@@ -58,4 +58,3 @@ void simple_error(void)
 {
 	perror("Fatal Error");
 }
-

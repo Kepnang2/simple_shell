@@ -150,4 +150,3 @@ void print_message(char *str)
 		exit(1);
 	}
 }
-

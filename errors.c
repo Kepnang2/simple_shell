@@ -74,4 +74,3 @@ char *_uitoa(unsigned int count)
 	}
 	return (numstr);
 }
-

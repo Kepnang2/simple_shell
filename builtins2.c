@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * new_cd - Changes the current working directory .
  * if no parameter is passed it will change directory to HOME.
@@ -18,4 +19,3 @@ void new_cd(vars_t *vars)
 	else
 		chdir(vars->array_tokens[1]);
 }
-
